@@ -529,7 +529,7 @@ hr{
 .accordion_item{
     border: 1px solid #e5e5e5;
     margin-bottom: 10px;
-}
+}    
 
 .accordion_item.active
 .accordion_content{
@@ -598,6 +598,8 @@ hr{
     font-style: italic;
     font-weight: 300;
 }
+
+
 
 /* Reviews */
 .reviews{
